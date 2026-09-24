@@ -1,0 +1,6 @@
+{
+  "name": "AuraSoul Mental AI - Emotion Companion & Emergency Lifeline",
+  "description": "Responsible 3D video call AI companion with emotion recognition, favorite person persona, Bluetooth vitals telemetry, medical record intelligence, emergency hospital & police radar, neighbor safety watch, and CNR case tracking.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
